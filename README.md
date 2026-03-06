@@ -88,7 +88,3 @@ A massa crítica é calculada dinamicamente com base na pureza do material. Se a
 * [ ] Documentação de Pós-Lançamento (Relatório Smyth)
 
 ---
-
-## 🛡️ Segurança (Security Policy)
-
-Se você encontrar uma vulnerabilidade (ou um espião soviético como o **@klaus-fuchs**), por favor, não abra uma *Issue*. Entre em contato diretamente com o balcão do contra-espionagem.
